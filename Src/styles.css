@@ -69,7 +69,7 @@ li {
 }
 
 .container-week {
-  margin-bottom: 20px;
+  margin: 0 auto;
   max-width: 100%;
 }
 
