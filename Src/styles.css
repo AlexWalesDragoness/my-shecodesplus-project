@@ -48,11 +48,12 @@ li {
   font-weight: 400;
   line-height: 1;
   padding: 10px 10px;
-
-.search-form {
+}
+#search-form {
   margin-bottom: 18px;
   font-size: 24px;
 }
+
 #current-location-button {
   display: block;
   margin: 10px 10px;
